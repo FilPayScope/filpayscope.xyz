@@ -32,9 +32,6 @@ export const metadata: Metadata = {
     description: siteConfig.description,
     creator: "@ivanmolto",
   },
-  icons: {
-    icon: "/favicon.ico",
-  },
 };
 
 export default function RootLayout({
