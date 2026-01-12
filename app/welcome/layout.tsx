@@ -40,7 +40,7 @@ const Layout = ({
             {/* Social Icons */}
 
             <a
-              href="https://github.com/easpulse"
+              href="https://github.com/filpayscope"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-gray-700 dark:text-gray-300 transition-colors duration-200 hover:text-[#0090ff]"
